@@ -31,16 +31,6 @@ An AI-powered voice calling agent that handles real phone calls via **Twilio Con
 
 ---
 
-## 👥 Team
-
-| Name | GitHub |
-|------|--------|
-| Shruti Khisa | [@ShrutiKhisa](https://github.com/ShrutiKhisa) |
-| Farhan Tanvir | [@FarhanTanvir](https://github.com/FarhanTanvir) |
-| Shaira Akhter Diba | [@ShairaDiba](https://github.com/ShairaDiba) |
-| Fazli Rabbi Noor | [@FarhanNoor](https://github.com/FarhanNoor) |
-
----
 
 ## 📁 Project Structure
 
